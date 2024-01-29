@@ -14,7 +14,9 @@ We used to use CPP, but we transitioned to Python this year. Most code within th
 Come visit our Google Sites-generated website over at [doxarobotics.com](https://www.doxarobotics.com/).
 
 <div>
-  <img align="left" src="https://github.com/doxa-robotics/.github/assets/137591653/cb9f43d7-a338-49ae-9d9e-96267ac010dc" alt="CAJ logo" />
+  <a href="https://caj.ac.jp/">
+    <img align="left" src="https://github.com/doxa-robotics/.github/assets/137591653/cb9f43d7-a338-49ae-9d9e-96267ac010dc" alt="CAJ logo" />
+  </a>
   <br>
   <b>Christian Academy of Japan</b><br><br>
   Christ-Centered Global Education in Tokyo, Japan.
