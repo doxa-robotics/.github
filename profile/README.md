@@ -10,7 +10,7 @@
 > 
 > You're probably here because you saw our team at VEX Worlds 2024. If so, welcome! Our code for the current season is currently private (but will be open-sourced next week if I remember), but a good idea of our overall project stucture can be found at the [vexmason template repository](https://github.com/zabackary/vexmason-template/). What's vexmason, you ask? Come and find our team in person (we're 99484 with the big Japanese flag hanging above our table) and I can explain, or head over to [the homepage](https://github.com/zabackary/vexmason/) to see what it can do for you.
 >
-> Our autonomous route list can be found at [this PDF](../assets/2023-24-worlds-autonomous-brochure.pdf).
+> Our autonomous route list can be found at [this PDF](https://github.com/doxa-robotics/.github/blob/main/assets/2023-24-worlds-autonomous-brochure.pdf).
 
 We are the [Christian Academy in Japan](https://caj.ac.jp) robotics team. Formerly, code was stored over at [99484-programming](https://github.com/99484-Programming), but it was transitioned over here. The team has competed in the VEX competition since 2015, becoming the top contender in Japan and representing the nation for eight consecutive years. Last year, all three of our competing teams -- 99484 A, B, and C -- qualified for the VEX Robotics World Championship as the top three teams out of the four qualified from Japan. 
 
@@ -37,7 +37,7 @@ Many of our repos don't have licenses. Please create an issue if you need one, a
       <tr>
             <td colspan="2" align="center">
               <p><b>Worlds (99484A)</b></p>
-              <p>This project is not open source yet, but you can find the route maps on <a href="../assets/2023-24-worlds-autonomous-brochure.pdf">this PDF</a>.</p>
+              <p>This project is not open source yet, but you can find the route maps on <a href=".https://github.com/doxa-robotics/.github/blob/main/assets/2023-24-worlds-autonomous-brochure.pdf">this PDF</a>.</p>
             </td>
       </tr>
       <tr>
