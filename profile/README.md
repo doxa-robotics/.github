@@ -76,6 +76,8 @@ Many of our repos don't have licenses. Please create an issue if you need one, a
       </tr>
 </table>
 
+To contact us, please [create a new discussion](https://github.com/orgs/doxa-robotics/discussions/new?category=general). We will get back to you ASAP.
+
 <sub>Our school</sub>
 <table>
       <tr>
