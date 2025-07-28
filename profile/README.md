@@ -1,14 +1,13 @@
 <p align="center">
-  <img alt="DOXA logo" width="280.9" height="300" src="https://github.com/doxa-robotics/.github/assets/137591653/c7cbe104-3b09-4988-a2d3-f42c9e6e70dd" />
+  <img alt="DOXA logo" width="640" height="256" src="https://github.com/user-attachments/assets/e5ca2e85-f7f5-4b30-b75f-673f1d3382e9" />
 </p>
 
-
-<h1 align="center">VEX Robotics Team 99484</h1>
+<h1 align="center">VEX Robotics HS Team 99484</h1>
 <h2 align="center">DOXA Robotics</h2>
 
 ## Our team and code
 
-We are the [Christian Academy in Japan](https://caj.ac.jp) robotics team. Formerly, code was stored over at [99484-programming](https://github.com/99484-Programming), but it was transitioned over here. The team has competed in the VEX competition since 2015, becoming the top contender in Japan and representing the nation for eight consecutive years. This year, 99484A has qualified as the top representative of Japan, becoming the tournament and skills champion at our regional finals.
+We are the [Christian Academy in Japan](https://caj.ac.jp) robotics team. Formerly, code was stored over at [99484-programming](https://github.com/99484-Programming), but it was transitioned over here. The team has competed in the VEX competition since 2015, becoming the top contender in Japan and representing the nation for nine consecutive years. This year, 99484A has qualified as the top representative of Japan, becoming the tournament and skills champion at our regional finals.
 
 We used to use CPP, but we transitioned to Python last year. This year, two of our teams used Python, with our A team using [vexide](https://vexide.dev/), an experimental V5 framework written in Rust. Come visit our Google Sites-powered website over at [doxarobotics.com](https://www.doxarobotics.com/).
 
