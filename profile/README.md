@@ -22,9 +22,9 @@ Many of our repos don't have licenses. Please create an issue if you need one, a
 ### What does "doxa" mean?
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,<svg viewBox='0 0 100 54' xmlns='http://www.w3.org/2000/svg'><text x='0' y='40' style='font:bold 42px sans-serif' fill='white'>δόξα</text></svg>" width="160" align="right">
-  <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml,<svg viewBox='0 0 100 54' xmlns='http://www.w3.org/2000/svg'><text x='0' y='40' style='font:bold 42px sans-serif' fill='white'>δόξα</text></svg>" width="160" align="right">
-  <img alt="δόξα" src="data:image/svg+xml,<svg viewBox='0 0 100 54' xmlns='http://www.w3.org/2000/svg'><text x='0' y='40' style='font:bold 42px sans-serif' fill='white'>δόξα</text></svg>" width="160" align="right">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/doxa-greek-light-text.svg" width="160" align="right">
+  <source media="(prefers-color-scheme: light)" srcset="../assets/doxa-greek-dark-text.svg" width="160" align="right">
+  <img alt="δόξα" src="../assets/doxa-greek-dark-text.svg" width="160" align="right">
 </picture>
 
 "Doxa" means "glory" in Greek. We chose this as our team name many years ago because whether we win or lose, we do it all for the glory of God.
