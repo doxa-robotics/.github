@@ -11,7 +11,7 @@
 
 ## Our team and code
 
-<img style="float:left;margin-right:16px;margin-bottom:16px" src="../assets/caj-logo.svg" />
+<img align="left" style="margin-right:16px;margin-bottom:16px" src="../assets/caj-logo.svg" />
 
 **We are the [Christian Academy in Japan](https://caj.ac.jp) robotics team.** Formerly, code was stored over at [99484-programming](https://github.com/99484-Programming), but it was transitioned over here. The team has competed in the VEX competition since 2015, becoming the top contender in Japan and representing the nation at VEX Worlds for ten consecutive years. This year, 99484A has qualified as the top representative of Japan, becoming the tournament and skills champion at our regional finals.
 
@@ -21,7 +21,11 @@ Many of our repos don't have licenses. Please create an issue if you need one, a
 
 ### What does "doxa" mean?
 
-<font size="30" style="float:right;margin-left:16px">δόξα</font>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,<svg viewBox='0 0 100 54' xmlns='http://www.w3.org/2000/svg'><text x='0' y='40' style='font:bold 42px sans-serif' fill='white'>δόξα</text></svg>" width="160" align="right">
+  <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml,<svg viewBox='0 0 100 54' xmlns='http://www.w3.org/2000/svg'><text x='0' y='40' style='font:bold 42px sans-serif' fill='white'>δόξα</text></svg>" width="160" align="right">
+  <img alt="δόξα" src="data:image/svg+xml,<svg viewBox='0 0 100 54' xmlns='http://www.w3.org/2000/svg'><text x='0' y='40' style='font:bold 42px sans-serif' fill='white'>δόξα</text></svg>" width="160" align="right">
+</picture>
 
 "Doxa" means "glory" in Greek. We chose this as our team name many years ago because whether we win or lose, we do it all for the glory of God.
 
