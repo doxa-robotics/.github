@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="DOXA logo" width="640" height="256" src="https://github.com/user-attachments/assets/0dfb1ba7-aa79-487b-839d-283ea2df0732" />
+  <img alt="DOXA logo" width="640" height="256" src="https://github.com/user-attachments/assets/090070a6-8c22-48ad-9f2a-a1bc10547cf5" />
 </p>
 
 
