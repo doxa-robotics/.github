@@ -1,6 +1,7 @@
 <p align="center">
-  <img alt="DOXA logo" width="640" height="256" src="https://github.com/user-attachments/assets/e5ca2e85-f7f5-4b30-b75f-673f1d3382e9" />
+  <img alt="DOXA logo" width="640" height="256" src="https://github.com/user-attachments/assets/0dfb1ba7-aa79-487b-839d-283ea2df0732" />
 </p>
+
 
 <h1 align="center">VEX Robotics HS Team 99484</h1>
 <h2 align="center">DOXA Robotics</h2>
