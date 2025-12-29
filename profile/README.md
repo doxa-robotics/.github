@@ -50,11 +50,11 @@ Many of our repos don't have licenses. Please create an issue if you need one, a
 
 ### Tournaments we'll participate in this year
 
-- [First Scrimmage of the Season (V5RC MS/HS)](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-1764.html) (Christian Academy in Japan)
-- [Push Back At CAJ (V5RC MS/HS)](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-1904.html) (Christian Academy in Japan)
-- [2026 ASIJ VEX Robotics Tournament V5 High School Event](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0442.html) (American School in Japan)
-- [Japan V5RC HS National Regional Championship](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0387.html) (青少年 STEM 教育振興会)
-- If Team A qualifies, VEX Worlds 2026
+- [x] [First Scrimmage of the Season (V5RC MS/HS)](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-1764.html) (Christian Academy in Japan)
+- [x] [Push Back At CAJ (V5RC MS/HS)](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-1904.html) (Christian Academy in Japan)
+- [ ] [2026 ASIJ VEX Robotics Tournament V5 High School Event](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0442.html) (American School in Japan)
+- [ ] [Japan V5RC HS National Regional Championship](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0387.html) (青少年 STEM 教育振興会)
+- [ ] If Team A qualifies, VEX Worlds 2026
 
 ### Our projects
 
