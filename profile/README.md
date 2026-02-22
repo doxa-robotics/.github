@@ -13,7 +13,7 @@
 
 <img align="left" style="margin-right:16px;margin-bottom:16px" src="../assets/caj-logo.svg" />
 
-**We are the [Christian Academy in Japan](https://caj.ac.jp) robotics team.** Formerly, code was stored over at [99484-programming](https://github.com/99484-Programming), but it was transitioned over here. The team has competed in the VEX competition since 2015, becoming the top contender in Japan and representing the nation at VEX Worlds for ten consecutive years. This year, 99484A has qualified as the top representative of Japan, becoming the tournament and skills champion at our regional finals.
+**We are the [Christian Academy in Japan](https://caj.ac.jp) robotics team.** Formerly, code was stored over at [99484-programming](https://github.com/99484-Programming), but it was transitioned over here. The team has competed in the VEX competition since 2015, becoming one of the top contenders in Japan and representing the nation at VEX Worlds for ten consecutive years.
 
 We primarily teach V5 Python, but one team uses [`vexide`](https://vexide.dev), a new experimental Rust-based V5 framework. Come visit our Google Sites-powered website over at [doxarobotics.com](https://www.doxarobotics.com/).
 
@@ -52,9 +52,10 @@ Many of our repos don't have licenses. Please create an issue if you need one, a
 
 - [x] [First Scrimmage of the Season (V5RC MS/HS)](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-1764.html) (Christian Academy in Japan)
 - [x] [Push Back At CAJ (V5RC MS/HS)](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-1904.html) (Christian Academy in Japan)
-- [ ] [2026 ASIJ VEX Robotics Tournament V5 High School Event](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0442.html) (American School in Japan)
-- [ ] [Japan V5RC HS National Regional Championship](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0387.html) (青少年 STEM 教育振興会)
-- [ ] If Team A qualifies, VEX Worlds 2026
+- [x] [2026 ASIJ VEX Robotics Tournament V5 High School Event](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0442.html) (American School in Japan)
+- [x] [Japan V5RC HS National Regional Championship](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0387.html) (青少年 STEM 教育振興会)
+
+We will not be participating in the VEX V5 World Championship during the 2025-26 season.
 
 ### Our projects
 
