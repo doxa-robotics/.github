@@ -41,21 +41,15 @@ Many of our repos don't have licenses. Please create an issue if you need one, a
 
 </div>
 
-<div align="center">
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsu0T5c_oVEDMGQCaBXXTCg?style=flat-square&logo=youtube&labelColor=aa0000&color=ffffff)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCsu0T5c_oVEDMGQCaBXXTCg?style=flat-square&logo=youtube&labelColor=aa0000&color=ffffff)
-
-</div>
-
 ### Tournaments we'll participate in this year
 
-- [x] [First Scrimmage of the Season (V5RC MS/HS)](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-1764.html) (Christian Academy in Japan)
-- [x] [Push Back At CAJ (V5RC MS/HS)](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-1904.html) (Christian Academy in Japan)
-- [x] [2026 ASIJ VEX Robotics Tournament V5 High School Event](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0442.html) (American School in Japan)
-- [x] [Japan V5RC HS National Regional Championship](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0387.html) (青少年 STEM 教育振興会)
+- [ ] [Canadian Academy VEX V5 Robotics Competition 2026
+Override™](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-1764.html) (Canadian Academy, Hyogo)
+- [ ] [2027 ASIJ VEX Robotics Tournament V5 High School](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0442.html) (American School in Japan)
+- [ ] [2027 CAJ VEX V5 (HS) Tournament](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-1904.html) (Christian Academy in Japan, Tokyo)
+- [ ] [Japan V5RC HS National Championship](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0387.html) (青少年 STEM 教育振興会, Tokyo)
 
-We will not be participating in the VEX V5 World Championship during the 2025-26 season.
+It is possible we will qualify for VEX Worlds as well. In that case, we will send one team to attend.
 
 ### Our projects
 
@@ -137,6 +131,111 @@ We will not be participating in the VEX V5 World Championship during the 2025-26
             </td>
       </tr>
 </table>
+
+<details>
+  <summary>Click to expand more history...</summary>
+
+## 2025-26
+<table align="center">
+  <tr>
+    <td>
+
+#### Team A
+Main repo: [`doxa-robotics/2025-26-teama`](https://github.com/doxa-robotics/2025-26-teama)
+![Rust + vexide](https://img.shields.io/badge/rust-vexide-D34516)
+    </td>
+    <td>
+
+#### Team C
+Main repo: [`doxa-robotics/2025-26-teamc`](https://github.com/doxa-robotics/2025-26-teamc)
+    </td>
+    <td>
+
+#### Team J
+Main repo: [`doxa-robotics/2025-26-teamj`](https://github.com/doxa-robotics/2025-26-teamj)
+    </td>
+  </tr>
+</table>
+
+## 2024-25
+
+<table align="center">
+  <tr>
+    <td colspan=2>
+
+#### Worlds
+Main repo: [`doxa-robotics/2023-24-worlds`](https://github.com/doxa-robotics/2023-24-worlds)
+![Python + vexmason](https://img.shields.io/badge/python-vexmason-ffe873)
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+#### Team A
+Main repo: [`doxa-robotics/2023-24-teama`](https://github.com/doxa-robotics/2023-24-teama)
+
+Port mappings: [`2023-12-11-teama.md`](https://github.com/doxa-robotics/robot-configuration/blob/main/2023-12-11-teama.md)
+    </td>
+    <td>
+
+#### Team B
+Main repo: [`doxa-robotics/2023-24-teamb`](https://github.com/doxa-robotics/2023-24-teamb)
+    </td>
+  </tr>
+</table>
+
+## 2022-23
+<table align="center">
+  <tr>
+    <td>
+
+#### Team A
+
+Main repo: [`doxa-robotics/2022-23-teama`](https://github.com/doxa-robotics/2022-23-teama)
+    </td>
+  </tr>
+</table>
+
+## 2021-22
+<table align="center">
+  <tr>
+    <td>
+
+#### Team C
+Main repo: [`doxa-robotics/2021-22-teamc`](https://github.com/doxa-robotics/2021-22-teamc)
+    </td>
+  </tr>
+</table>
+
+## 2020-21
+<table align="center">
+  <tr>
+    <td>
+
+#### Team A
+Main repo: [`doxa-robotics/2020-21-teama`](https://github.com/doxa-robotics/2020-21-teama)
+    </td>
+    <td>
+
+#### Team C
+Main repo: [`doxa-robotics/2020-21-teamc`](https://github.com/doxa-robotics/2020-21-teamc)
+    </td>
+  </tr>
+</table>
+
+## 2019-20
+<table align="center">
+  <tr>
+    <td>
+
+#### Worlds
+Main repo: [`doxa-robotics/2019-20-teama-worlds`](https://github.com/doxa-robotics/2019-20-teama-worlds)
+![C++](https://img.shields.io/badge/C%2B%2B-vexcode-00599C)
+    </td>
+  </tr>
+</table>
+
+</details>
 
 To contact us, please [create a new discussion](https://github.com/orgs/doxa-robotics/discussions/new?category=general). We will get back to you ASAP.
 
